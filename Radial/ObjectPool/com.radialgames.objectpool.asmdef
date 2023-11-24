@@ -1,0 +1,16 @@
+{
+    "name": "com.radialgames.objectpool",
+    "rootNamespace": "",
+    "references": [
+        "GUID:c8999000c1cf3fd45afb98509aabb40d"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,18 @@
+﻿{
+  "name": "com.radialgames.objectpool",
+  "version": "1.0.0",
+  "displayName": "ObjectPool",
+  "description": "A helper class to manage MonoBehaviour ObjectPools",
+  "unity": "2019.4",
+  "license": "MIT",
+  "keywords": [
+    "objectpool",
+    "pool"
+  ],
+  "author": {
+    "name": "Radial Games",
+    "email": "hello@radialgames.com",
+    "url": "https://github.com/RadialGames/ObjectPool"
+  },
+  "type": "library"
+}
